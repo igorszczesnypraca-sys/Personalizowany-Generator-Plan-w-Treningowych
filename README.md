@@ -1,4 +1,4 @@
-#  System Rezerwacji IT
-Współtworzenie systemu ułatwiającego zarządzanie zasobami sprzętowymi z architekturą opartą na rolach dostępu (Admin/User) oraz trwałym zapisem asynchronicznym w Web Storage API. 
+#  Personalizowany Generator Planów Treningowych
+Zaprojektowanie i wdrożenie od podstaw bezpiecznej aplikacji webowej z relacyjną bazą danych. Stworzenie autorskiego algorytmu generującego zindywidualizowane harmonogramy ćwiczeń na podstawie dostępnego sprzętu i preferencji użytkownika, wraz z szyfrowanym systemem autoryzacji oraz interaktywnym kalendarzem z obsługą trybu ciemnego. 
 
-(Technologie: HTML5,CSS3, JavaScript ES6).
+(Technologie: PHP (PDO), MySQL, HTML5, CSS3, JavaScript) 
